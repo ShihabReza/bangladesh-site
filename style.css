@@ -1,0 +1,69 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+#header{
+    width: 80%;
+    margin: 0 auto;
+}
+.heder-text{
+    text-align: center;
+}
+.heder-parent{
+    display: flex;
+    margin-top: 50px;
+}
+.text-aria{
+    width: 70%;
+}
+.imgaria{
+    width: 30%;
+}
+.imgaria img{
+    width: 400px;
+}
+.text-aria button{
+    
+    padding:20px 70px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    margin-top: 15px;
+    background-image: linear-gradient(45deg, green, red, green);
+}
+.text-aria p{
+    text-align: justify;
+}
+#card-partials{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.card-div{
+    display: flex;
+}
+.card-text h1{
+    text-align: center;
+}
+.dhaka{
+    width:300px;
+    margin: 100px;
+    text-align: center;
+    
+}
+.dhaka img{
+    width: 100%;
+}
+..dhaka p{
+    text-align: justify;
+}
+.dhaka button{
+    width: 200px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 12px rgb(219, 124, 124);
+}
+footer{
+    text-align: center;
+}
